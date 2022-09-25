@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\bin\Debug\net6.0\HeapFile.exe
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\bin\Debug\net6.0\HeapFile.deps.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\bin\Debug\net6.0\HeapFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\bin\Debug\net6.0\HeapFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\bin\Debug\net6.0\HeapFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\refint\HeapFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\HeapFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HeapFile\obj\Debug\net6.0\ref\HeapFile.dll

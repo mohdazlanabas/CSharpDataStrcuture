@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\bin\Debug\net6.0\TrieFile.exe
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\bin\Debug\net6.0\TrieFile.deps.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\bin\Debug\net6.0\TrieFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\bin\Debug\net6.0\TrieFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\bin\Debug\net6.0\TrieFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\refint\TrieFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\TrieFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\TrieFile\obj\Debug\net6.0\ref\TrieFile.dll

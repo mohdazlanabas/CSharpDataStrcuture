@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\bin\Debug\net6.0\HashDictFile.exe
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\bin\Debug\net6.0\HashDictFile.deps.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\bin\Debug\net6.0\HashDictFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\bin\Debug\net6.0\HashDictFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\bin\Debug\net6.0\HashDictFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\refint\HashDictFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\HashDictFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\HashDictFile\obj\Debug\net6.0\ref\HashDictFile.dll

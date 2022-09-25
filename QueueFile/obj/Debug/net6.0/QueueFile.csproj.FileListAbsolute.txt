@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\bin\Debug\net6.0\QueueFile.exe
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\bin\Debug\net6.0\QueueFile.deps.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\bin\Debug\net6.0\QueueFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\bin\Debug\net6.0\QueueFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\bin\Debug\net6.0\QueueFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\refint\QueueFile.dll
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.pdb
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\QueueFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpDataStrcuture\QueueFile\obj\Debug\net6.0\ref\QueueFile.dll
